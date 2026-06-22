@@ -102,4 +102,6 @@ Kirithikaa S
 
 ## Internship
 
-This project was developed as part of the CodTech Python Programming Internship.
+## Intern Details
+- Name: Kirithikaa S
+- Intern ID: CITS2745
